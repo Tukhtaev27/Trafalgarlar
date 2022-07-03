@@ -260,3 +260,14 @@ footer{
     list-style: none;
     margin-left: 100px;
 }
+.services{
+    width: 1200px;
+    border: 1px solid;
+    margin-left: 200px;
+}
+.xizmatlat{
+    padding-left: 200px;
+    margin-top: 50px;
+    width: 1200px;
+    border: 1px solid;
+}
