@@ -262,12 +262,64 @@ footer{
 }
 .services{
     width: 1200px;
-    border: 1px solid;
     margin-left: 200px;
 }
-.xizmatlat{
-    padding-left: 200px;
+.xizmatlar{
+    text-align: center;
     margin-top: 50px;
     width: 1200px;
-    border: 1px solid;
+}
+.last-container{
+    width: 1200px;
+    height: 2515px;
+    background-color: rgb(237, 236, 236);
+}
+.list-box{
+    width: 770px;
+    height: 2515px;
+    margin: 0 auto;
+    list-style: none;
+}
+.box{
+    box-shadow: 5px;
+    width: 770px;
+    height: 450px;
+    display: flex;
+    margin-top: 50px;
+    border: 1px solid white;
+    background-color: white;
+    
+}
+.box-list{
+    display: flex;
+    list-style: none;
+    line-height: 15px;
+}
+.rectangle{
+    padding-left: 10px;
+}
+.box-img{
+    width: 250px;
+    height: 170px;
+    padding-right: 40px;
+    margin-top: 25px;
+}
+.button-box{
+    display: flex;
+}
+.box-button{
+    background-color: blue;
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    color: white;
+}
+.box-button:hover{
+    background-color: rgb(0, 89, 255);
+    cursor: pointer;
+}
+.info{
+    padding-top: 10px;
+    padding-left: 20px;
+    color: aqua;
 }
